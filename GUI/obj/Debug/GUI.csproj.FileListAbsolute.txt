@@ -1,0 +1,60 @@
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\GUI.exe.config
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\GUI.exe
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\GUI.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\BLL.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\DAL.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\Modelo.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\BLL.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\DAL.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\Modelo.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.exe
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.MDISistema.resources
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\GUI.exe.config
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\GUI.exe
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\GUI.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\BLL.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\DAL.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\Modelo.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\BLL.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\DAL.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\bin\Debug\Modelo.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.frmLogin.resources
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.frmModeloCadastro.resources
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.MDISistema.resources
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.exe
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\GUI\obj\Debug\GUI.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\bin\Debug\GUI.exe.config
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\bin\Debug\GUI.exe
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\bin\Debug\GUI.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\bin\Debug\BLL.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\bin\Debug\DAL.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\bin\Debug\Modelo.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\bin\Debug\BLL.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\bin\Debug\DAL.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\bin\Debug\Modelo.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmModeloCadastro.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.exe
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmPrincipal.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmCadastroCategoria.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmConsultaCategoria.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmCadastroSubCategoria.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmConsultaSubCategoria.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmCadastroUnidadeDeMedida.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmConsultaUnidadeDeMedida.resources

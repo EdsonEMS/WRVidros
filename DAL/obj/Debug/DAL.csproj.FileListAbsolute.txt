@@ -1,0 +1,25 @@
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\bin\Debug\DAL.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\bin\Debug\DAL.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\bin\Debug\Modelo.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\bin\Debug\Modelo.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\obj\Debug\DAL.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\obj\Debug\DAL.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\bin\Debug\DAL.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\bin\Debug\DAL.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\bin\Debug\Modelo.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\bin\Debug\Modelo.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\obj\Debug\DAL.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\DAL\obj\Debug\DAL.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\DAL\bin\Debug\DAL.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\DAL\bin\Debug\DAL.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\DAL\bin\Debug\Modelo.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\DAL\bin\Debug\Modelo.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\DAL\obj\Debug\DAL.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,16 @@
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\bin\Debug\Modelo.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\bin\Debug\Modelo.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\obj\Debug\Modelo.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\obj\Debug\Modelo.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\bin\Debug\Modelo.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\bin\Debug\Modelo.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\obj\Debug\Modelo.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\Modelo\obj\Debug\Modelo.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\Modelo\bin\Debug\Modelo.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\Modelo\bin\Debug\Modelo.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\Modelo\obj\Debug\Modelo.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\Modelo\obj\Debug\Modelo.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache

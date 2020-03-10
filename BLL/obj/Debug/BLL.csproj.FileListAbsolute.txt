@@ -1,0 +1,31 @@
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\BLL.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\BLL.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\DAL.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\Modelo.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\DAL.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\Modelo.pdb
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\obj\Debug\BLL.dll
+C:\Users\admlocal\Documents\Projetos\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\obj\Debug\BLL.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\BLL.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\BLL.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\DAL.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\Modelo.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\DAL.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\bin\Debug\Modelo.pdb
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\obj\Debug\BLL.dll
+D:\Programação\WR Vidros Wanderson\Projeto\WR_Vidros\BLL\obj\Debug\BLL.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\bin\Debug\BLL.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\bin\Debug\BLL.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\bin\Debug\DAL.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\bin\Debug\Modelo.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\bin\Debug\DAL.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\bin\Debug\Modelo.pdb
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\obj\Debug\BLL.dll
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\BLL\obj\Debug\BLL.pdb
