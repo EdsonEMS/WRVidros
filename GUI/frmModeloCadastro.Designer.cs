@@ -144,10 +144,12 @@
             this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.pnBotoes);
             this.Controls.Add(this.pnDados);
+            this.KeyPreview = true;
             this.Name = "frmModeloCadastro";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Modelo de Formulário de Cadastro";
             this.Load += new System.EventHandler(this.frmModeloCadastro_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.frmModeloCadastro_KeyDown);
             this.pnBotoes.ResumeLayout(false);
             this.ResumeLayout(false);
 

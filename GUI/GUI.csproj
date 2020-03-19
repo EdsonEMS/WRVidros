@@ -52,6 +52,12 @@
     <Compile Include="frmCadastroCategoria.Designer.cs">
       <DependentUpon>frmCadastroCategoria.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastroProduto.Designer.cs">
+      <DependentUpon>frmCadastroProduto.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmCadastroSubCategoria.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,6 +75,12 @@
     </Compile>
     <Compile Include="frmConsultaCategoria.Designer.cs">
       <DependentUpon>frmConsultaCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaProduto.Designer.cs">
+      <DependentUpon>frmConsultaProduto.cs</DependentUpon>
     </Compile>
     <Compile Include="frmConsultaSubCategoria.cs">
       <SubType>Form</SubType>
@@ -105,6 +117,9 @@
     <EmbeddedResource Include="frmCadastroCategoria.resx">
       <DependentUpon>frmCadastroCategoria.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastroProduto.resx">
+      <DependentUpon>frmCadastroProduto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmCadastroSubCategoria.resx">
       <DependentUpon>frmCadastroSubCategoria.cs</DependentUpon>
     </EmbeddedResource>
@@ -113,6 +128,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmConsultaCategoria.resx">
       <DependentUpon>frmConsultaCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaProduto.resx">
+      <DependentUpon>frmConsultaProduto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmConsultaSubCategoria.resx">
       <DependentUpon>frmConsultaSubCategoria.cs</DependentUpon>
@@ -255,6 +273,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\viewmagsetting_view_search_find_11035 - 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_action_cam_shot_photography_icon-icons.com_55331.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_40869b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_40869.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_40869 - pq.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_40869b - pq.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

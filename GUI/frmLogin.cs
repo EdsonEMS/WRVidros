@@ -29,5 +29,13 @@ namespace GUI
             mdi.Closed += (s, args) => this.Close();
             mdi.Show();
         }
+
+        private void frmLogin_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                this.SelectNextControl(this.ActiveControl, !e.Shift, true, true, true);
+            }
+        }
     }
 }

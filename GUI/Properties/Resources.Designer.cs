@@ -93,6 +93,56 @@ namespace GUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap camera_40869 {
+            get {
+                object obj = ResourceManager.GetObject("camera_40869", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap camera_40869___pq {
+            get {
+                object obj = ResourceManager.GetObject("camera_40869 - pq", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap camera_40869b {
+            get {
+                object obj = ResourceManager.GetObject("camera_40869b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap camera_40869b___pq {
+            get {
+                object obj = ResourceManager.GetObject("camera_40869b - pq", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap camera_action_cam_shot_photography_icon_icons_com_55331 {
+            get {
+                object obj = ResourceManager.GetObject("camera_action_cam_shot_photography_icon-icons.com_55331", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cancel_stop_exit_1583 {
             get {
                 object obj = ResourceManager.GetObject("cancel_stop_exit_1583", resourceCulture);

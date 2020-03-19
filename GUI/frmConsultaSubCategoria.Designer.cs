@@ -86,10 +86,12 @@
             this.Controls.Add(this.btnLocalizar);
             this.Controls.Add(this.txtValor);
             this.Controls.Add(this.label1);
+            this.KeyPreview = true;
             this.Name = "frmConsultaSubCategoria";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Consulta SubCategoria";
             this.Load += new System.EventHandler(this.frmConsultaSubCategoria_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.frmConsultaSubCategoria_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.dgvDados)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

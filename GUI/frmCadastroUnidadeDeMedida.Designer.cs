@@ -73,6 +73,7 @@
             this.txtUnidadeMedida.Name = "txtUnidadeMedida";
             this.txtUnidadeMedida.Size = new System.Drawing.Size(468, 20);
             this.txtUnidadeMedida.TabIndex = 5;
+            this.txtUnidadeMedida.Leave += new System.EventHandler(this.txtUnidadeMedida_Leave);
             // 
             // txtCodigo
             // 

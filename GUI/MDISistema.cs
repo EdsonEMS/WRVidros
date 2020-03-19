@@ -44,7 +44,9 @@ namespace GUI
 
         private void produtoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            frmCadastroProduto f = new frmCadastroProduto();
+            f.ShowDialog();
+            f.Dispose();
         }
 
         private void clienteToolStripMenuItem_Click(object sender, EventArgs e)
@@ -137,6 +139,13 @@ namespace GUI
         private void unidadeDeMedidaToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             frmConsultaUnidadeDeMedida f = new frmConsultaUnidadeDeMedida();
+            f.ShowDialog();
+            f.Dispose();
+        }
+
+        private void produtoToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            frmConsultaProduto f = new frmConsultaProduto();
             f.ShowDialog();
             f.Dispose();
         }

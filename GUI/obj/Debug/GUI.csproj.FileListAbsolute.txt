@@ -58,3 +58,5 @@ C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Deb
 C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmConsultaSubCategoria.resources
 C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmCadastroUnidadeDeMedida.resources
 C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmConsultaUnidadeDeMedida.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmCadastroProduto.resources
+C:\Users\edson.silva\Documents\Particular\Desenv\WR Vidros\SistemaC#\GUI\obj\Debug\GUI.frmConsultaProduto.resources

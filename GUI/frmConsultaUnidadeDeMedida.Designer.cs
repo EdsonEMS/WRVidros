@@ -86,10 +86,12 @@
             this.Controls.Add(this.btnLocalizar);
             this.Controls.Add(this.txtValor);
             this.Controls.Add(this.label1);
+            this.KeyPreview = true;
             this.Name = "frmConsultaUnidadeDeMedida";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Consulta Unidade de Medida";
             this.Load += new System.EventHandler(this.frmConsultaUnidadeDeMedida_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.frmConsultaUnidadeDeMedida_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.dgvDados)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
